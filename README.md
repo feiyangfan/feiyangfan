@@ -1,5 +1,5 @@
 ### Hi there 👋 !
-I am a CS specialist studying at University of Toronto. 😃
+I am a CS specialist studying at University of Toronto. 😃 [About me!](https://feiyangfan.github.io/about-me/)
 
 [Some important notes I took during my development(Git, web dev, general things about development, etc..)](https://github.com/feiyangfan/notes-and-ideas)
 
