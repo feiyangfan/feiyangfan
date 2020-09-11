@@ -1,6 +1,8 @@
 ### Hi there 👋 !
 I am a CS specialist studying at University of Toronto. 😃
 
+[Some important notes I took during my development(Git, web dev, general things about development, etc..)](https://github.com/feiyangfan/notes-and-ideas)
+
 | Finished courses  | Currently studying |
 | ------------- | ------------- |
 | [CSC207 Software Design](https://fas.calendar.utoronto.ca/course/csc207h1)  | [CSC301 Introduction to Software Engineering](https://fas.calendar.utoronto.ca/course/csc301h1)  |
