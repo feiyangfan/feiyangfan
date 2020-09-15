@@ -1,7 +1,8 @@
-### Hi there 👋 !
-I am a CS specialist studying at University of Toronto. 😃 [About me!](https://feiyangfan.github.io/about-me/)
+### Hi there !
+I am a CS specialist studying at [University of Toronto](https://www.utoronto.ca/). 😃  
+[About me!](https://feiyangfan.github.io/about-me/)
 
-[Some important notes I took during my development(Git, web dev, general things about development, etc..)](https://feiyangfan.github.io/learning-and-notes/)
+[Some important notes I took during my study of CS and development(Web development, Git, General notes about development, etc..)](https://feiyangfan.github.io/learning-and-notes/)
 
 <!--- | Finished courses  | Currently studying |
 | ------------- | ------------- |
