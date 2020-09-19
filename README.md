@@ -1,6 +1,6 @@
 ### Hi there !
 I am a third-year CS specialist currently studying at [University of Toronto](https://www.utoronto.ca/). 😃  
-[More information about me!](https://feiyangfan.github.io/about-me/)
+[More information about me on my personal website!](https://feiyangfan.github.io/my-personal-website/)
 
 [Some important notes I took during my study of CS and development(Web development, Git, General notes about development, etc..)](https://feiyangfan.github.io/learning-and-notes/)
 
