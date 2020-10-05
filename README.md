@@ -8,7 +8,7 @@ I am a third-year CS specialist currently studying at [University of Toronto](ht
 | Finished projects  | Currently working on |
 | ------------- | ------------- |
 | [Simple URL shortener](https://github.com/feiyangfan/my-simple-url-shortener)  | [My daily planner (timetable part)](https://github.com/feiyangfan/my-daily-planner)  |
-| [Modular personal website](https://github.com/feiyangfan/modular-personal-website)  | [C++ MineSweeper with two types of AIs](https://github.com/feiyangfan/ai-minesweeper)|
+| [Modular personal website](https://github.com/feiyangfan/modular-personal-website)  | [RushHour with 3 AIs(BFS, GBFS, A*)](https://github.com/feiyangfan/ai-minesweeper)|
 | [Set of Android games wrote in Java](https://github.com/feiyangfan/simple-set-of-android-games)| |
 | [My daily planner](https://github.com/feiyangfan/my-daily-planner)|
 
