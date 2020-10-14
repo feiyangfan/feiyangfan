@@ -1,5 +1,5 @@
-### Hi there !
-I am a third-year CS specialist currently studying at [University of Toronto](https://www.utoronto.ca/). 😃  
+
+**Hello!** I am a third-year CS specialist currently studying at [University of Toronto](https://www.utoronto.ca/). 😃  
 **[My new modular personal website!](https://ffy-modular-personal-website.herokuapp.com/)**  (might take some time to load)
 (~~[Legacy personal website](https://feiyangfan.github.io/about-me/)~~)
 
