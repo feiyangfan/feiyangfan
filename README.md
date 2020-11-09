@@ -1,9 +1,9 @@
 
-**Hello!** I am a third-year CS specialist currently studying at [University of Toronto](https://www.utoronto.ca/). 😃  
-**[My new modular personal website!](https://ffy-modular-personal-website.herokuapp.com/)**  (might take some time to load)
+**Hello!😃** Third-year CS specialist currently studying at [University of Toronto](https://www.utoronto.ca/).   
+**[Modular personal website!](https://ffy-modular-personal-website.herokuapp.com/)**  
 ([Deprecated personal website](https://feiyangfan.github.io/about-me/))
 
-[Some useful notes I took during my study of CS and development](https://feiyangfan.github.io/learning-and-notes/)
+[Some useful notes ](https://feiyangfan.github.io/learning-and-notes/)
 
 <!--- 
 | Finished projects  | Currently working on |
