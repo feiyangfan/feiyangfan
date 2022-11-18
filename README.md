@@ -1,8 +1,8 @@
 
 **Hello!😃**  
-I am a forth-year CS specialist currently studying at University of Toronto.   
+I am a CS specialist undergrad just graduated from University of Toronto.   
 
-Current goals: Task management app(React.js, Express.js, NoSQL-like database(MongoDB))
+Current goals: Algorithm + other random stuff
 
 [Some useful notes (Stuff I learned)](https://feiyangfan.github.io/learning-and-notes/)
 
